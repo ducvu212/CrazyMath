@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#323C52"
+    tools:context="com.example.vuminhduc.crazymath.playActivity">
+
+    <TextView
+    android:id="@+id/tv_score"
+    android:layout_alignParentRight="true"
+    android:layout_marginTop="20dp"
+    android:layout_marginRight="50dp"
+    android:textColor="#00FFFF"
+    android:text="Your Score : "
+    android:textSize="20sp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_Showscore"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="20dp"
+        android:textColor="#00FFFF"
+        android:text="0"
+        android:textSize="25sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_time"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="50dp"
+        android:textColor="#00FFFF"
+        android:text="Time : "
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_Showtime"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="20dp"
+        android:textColor="#00FFFF"
+        android:text="5"
+        android:textSize="25sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/img_clock"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="55dp"
+        android:layout_marginRight="120dp"
+        android:textColor="#00FFFF"
+        android:text="5"
+        android:src="@drawable/alarm"
+        android:textSize="20sp"
+        android:layout_width="20dp"
+        android:layout_height="20dp" />
+
+    <TextView
+        android:id="@+id/tv_ques"
+        android:layout_below="@id/tv_Showtime"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="180dp"
+        android:textSize="45sp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/btn_true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="70dp"
+        android:src="@drawable/ic_true"
+        android:layout_marginLeft="50dp"
+        android:layout_width="80dp"
+        android:layout_height="80dp" />
+
+    <ImageView
+        android:id="@+id/btn_false"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="70dp"
+        android:src="@drawable/ic_false"
+        android:layout_marginRight="50dp"
+        android:layout_width="80dp"
+        android:layout_height="80dp" />
+
+</RelativeLayout>

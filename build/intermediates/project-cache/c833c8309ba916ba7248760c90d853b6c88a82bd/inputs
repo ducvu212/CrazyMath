@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/home/vuminhduc/AndroidStudio_Project/CrazyMath/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=92cfa4f194b3c295d190b937eec31aefa6452e3f
+DX_VERSION=1.12
+JUMBO_MODE=true
+OPTIMIZE=true

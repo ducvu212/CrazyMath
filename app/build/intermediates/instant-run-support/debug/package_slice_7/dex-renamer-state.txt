@@ -1,0 +1,4 @@
+#Tue Mar 28 07:23:33 ICT 2017
+base.0=/home/vuminhduc/AndroidStudio_Project/CrazyMath/app/build/intermediates/transforms/dexMerger/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/home/vuminhduc/AndroidStudio_Project/CrazyMath/app/build/intermediates/transforms/dexMerger/debug/folders/1000/5/slice_7/classes.dex

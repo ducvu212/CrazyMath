@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/vuminhduc/AndroidStudio_Project/CrazyMath/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/alarm.png",
+        "source": "/home/vuminhduc/AndroidStudio_Project/CrazyMath/app/src/main/res/drawable-xxxhdpi/alarm.png"
+    },
+    {
+        "merged": "/home/vuminhduc/AndroidStudio_Project/CrazyMath/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_false.png",
+        "source": "/home/vuminhduc/AndroidStudio_Project/CrazyMath/app/src/main/res/drawable-xxxhdpi/ic_false.png"
+    },
+    {
+        "merged": "/home/vuminhduc/AndroidStudio_Project/CrazyMath/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/math.png",
+        "source": "/home/vuminhduc/AndroidStudio_Project/CrazyMath/app/src/main/res/drawable-xxxhdpi/math.png"
+    },
+    {
+        "merged": "/home/vuminhduc/AndroidStudio_Project/CrazyMath/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_playbutton.png",
+        "source": "/home/vuminhduc/AndroidStudio_Project/CrazyMath/app/src/main/res/drawable-xxxhdpi/ic_playbutton.png"
+    },
+    {
+        "merged": "/home/vuminhduc/AndroidStudio_Project/CrazyMath/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_true.png",
+        "source": "/home/vuminhduc/AndroidStudio_Project/CrazyMath/app/src/main/res/drawable-xxxhdpi/ic_true.png"
+    }
+]
